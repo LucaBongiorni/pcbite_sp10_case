@@ -9,6 +9,6 @@ I've included a STEP file exported from onshape that you can use to make modific
 
 Assembly is simple. Put the probe PCB in the bottom half and make sure everything is lined up correctly; there should be enough room to leave any jumpers connected if you want. Then set the top half on and slide one of the "straps" over the whole thing to hold it together. I made a small strap and a large strap to go over the small end and the middle respectively. However, you only really need the large strap. It may also be hard to get the small one on for some reason, despite the opening being the same height as the large one.
 
-Note that the large strap has a draft on the sides of the opening so that it can sit flush with the angled sides of the case. Just line up the arrow on the case with its arrow and you should be good.
+Note that the large strap has a draft on the sides of the opening so that it can sit flush with the angled sides of the case. You can use the arrows on the strap and the case to ensure you have everything oriented correctly.
 
 ![Picture of assembled case](https://pbs.twimg.com/media/Ejxs1yNU0AEe93F?format=jpg&name=900x900)
