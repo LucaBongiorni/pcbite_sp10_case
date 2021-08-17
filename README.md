@@ -7,8 +7,8 @@ I don't think slicer settings will matter much for this. But, for what it's wort
 The holes are left a little big to account for the differences in the nut placement I noticed on my probes, but it might not be enough for every single one.
 I've included a STEP file exported from onshape that you can use to make modifications if you need to. It's pretty messy, apologies for that.
 
-Assembly is simple. Put the probe PCB in the bottom half and make sure everything is lined up correctly; there should be enough room to leave any jumpers connected if you want. Then set the top half on and slide one of the "straps" over the whole thing to hold it together. I made a small strap and a large strap to go over the small end and the middle respectively. However, you only really need the large strap. It may also be hard to get the small one on for some reason, despite the opening being the same height as the large one.
+Assembly is simple. Put the probe PCB in the bottom half and make sure everything is lined up correctly; there should be enough room to leave any jumpers connected if you want. Then set the top half on and slide the strap over the whole thing to hold it together.
 
-Note that the large strap has a draft on the sides of the opening so that it can sit flush with the angled sides of the case. You can use the arrows on the strap and the case to ensure you have everything oriented correctly.
+Note that the strap has a draft on the sides of the opening so that it can sit flush with the angled sides of the case. You can use the arrows on the strap and the case to ensure you have everything oriented correctly.
 
-![Picture of assembled case](https://pbs.twimg.com/media/Ejxs1yNU0AEe93F?format=jpg&name=900x900)
+![Picture of assembled case](https://i.imgur.com/6D8UUDk.jpg)
